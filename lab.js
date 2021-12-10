@@ -24,6 +24,7 @@ if(amysAge <= brittanisAge){
   console.log("brittani is older");
 }
 
+//
 
 ////////// PROBLEM 3 //////////
 
